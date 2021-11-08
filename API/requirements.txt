@@ -1,0 +1,8 @@
+flask==2.0.2
+flask-cors==3.0.10
+
+#url de flask:
+"http://localhost:5000"
+
+#url Angular:
+"http://localhost:4200/"
